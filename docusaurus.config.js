@@ -1,12 +1,12 @@
 module.exports = {
-  title: 'GWorks Docs',
-  tagline: 'The Place for help',
-  url: 'https://docs.g-works.eu',
+  title: 'TheCrazyBot Docs',
+  tagline: '',
+  url: 'http://docs.thecrazybot.de',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://cdn.g-works.eu/img/gworks/logo.png',
-  organizationName: 'GWorks',
+  organizationName: 'TheCrazyBot',
   projectName: 'Docs',
   plugins: [
     [
