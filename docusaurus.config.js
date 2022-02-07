@@ -8,6 +8,7 @@ module.exports = {
   favicon: 'https://cdn.g-works.eu/img/gworks/logo.png',
   organizationName: 'TheCrazyBot',
   projectName: 'Docs',
+  trailingSlash: true,
   plugins: [
     [
       '@docusaurus/plugin-sitemap',
@@ -15,7 +16,6 @@ module.exports = {
         id: 'sitemap',
         changefreq: 'weekly',
         priority: 0.5,
-        trailingSlash: true,
       },
     ],
   ],
