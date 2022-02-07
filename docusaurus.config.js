@@ -61,7 +61,7 @@ prism: {
           ],
         }
       ],
-      copyright: `© ${new Date().getFullYear()}`,
+      copyright: `©  ${new Date().getFullYear()}`,
     },
   },
   presets: [
