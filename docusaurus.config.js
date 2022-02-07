@@ -25,7 +25,7 @@ prism: {
       darkTheme: require('prism-react-renderer/themes/dracula'),
     },
     navbar: {
-      title: 'GWorks Docs',
+      title: 'TheCrazyBot Docs',
       logo: {
         alt: 'GWorks Logo',
         src: 'https://cdn.g-works.eu/img/gworks/logo.png',
@@ -42,7 +42,7 @@ prism: {
           position: 'right',
         },
         {
-          href: 'https://g-works.eu',
+          href: 'https://thecrazybot.de',
           label: 'Website',
           position: 'right',
         },
@@ -56,12 +56,12 @@ prism: {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/xVu7dgjVsh',
+              href: 'https://discord.gg/H9RPzp68Mp',
             },
           ],
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} GWorks, made with ❤  in Germany and build with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()}`,
     },
   },
   presets: [
