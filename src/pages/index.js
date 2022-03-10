@@ -61,7 +61,6 @@ function Home() {
     <Layout
       title={`${siteConfig.title}`}
       description="Documentation von TheCrazyBot">
-        <html lang="de">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
