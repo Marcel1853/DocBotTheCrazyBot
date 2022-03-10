@@ -1,10 +1,8 @@
 ---
 id: aWelcomePage
-title: Welcome
+title: Willkommen
 
 ---
 
 
 ### TheCrazybot Docs 
-
-# Willkommen 
