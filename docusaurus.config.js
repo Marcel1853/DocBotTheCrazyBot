@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://cdn.g-works.eu/img/gworks/logo.png',
+  favicon: '',
   organizationName: 'TheCrazyBot',
   projectName: 'Docs',
   trailingSlash: true,
@@ -27,8 +27,8 @@ prism: {
     navbar: {
       title: 'TheCrazyBot Docs',
       logo: {
-        alt: 'GWorks Logo',
-        src: 'https://cdn.g-works.eu/img/gworks/logo.png',
+        alt: '',
+        src: '',
       },
       items: [
         {
