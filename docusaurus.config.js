@@ -27,8 +27,8 @@ prism: {
     navbar: {
       title: 'TheCrazyBot Docs',
       logo: {
-        alt: '',
-        src: '',
+        alt: 'GWorks Logo',
+        src: 'https://cdn.g-works.eu/img/gworks/logo.png',
       },
       items: [
         {
