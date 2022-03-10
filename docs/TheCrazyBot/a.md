@@ -90,9 +90,9 @@ ________________________
 
 ________________________
 
-+Update vom 19.11.2021
+### Update vom 19.11.2021
 
-es gibt jetzt einen Global Chat im Bot den man mit /set-global an machen kann
+- es gibt jetzt einen Global Chat im Bot den man mit /set-global an machen kann
 
 ________________________
 

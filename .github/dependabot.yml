@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: "daily"
     reviewers:
-      - "Dominic-ktz"
+      - "Marcel1853"
     commit-message:
       prefix: "⚠️"
       prefix-development: "⚠️"
