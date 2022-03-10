@@ -37,10 +37,6 @@ prism: {
           position: 'left',
         },
         {
-          type: 'localeDropdown',
-          position: 'right',
-        },
-        {
           href: 'https://thecrazybot.de',
           label: 'Website',
           position: 'right',
