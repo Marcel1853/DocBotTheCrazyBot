@@ -5,7 +5,6 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: '',
   organizationName: 'TheCrazyBot',
   projectName: 'Docs',
   trailingSlash: true,
