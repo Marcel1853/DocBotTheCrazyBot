@@ -71,7 +71,7 @@ prism: {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-              "https://github.com/Marcel1853/DocBotTheCrazyBot/edit/master/",
+              "https://github.com/Marcel1853/DocBotTheCrazyBot/edit/main/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
         },
