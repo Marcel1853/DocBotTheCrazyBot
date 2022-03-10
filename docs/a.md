@@ -1,6 +1,7 @@
 ---
 id: aWelcomePage
 title: Welcome
+
 ---
 
 
