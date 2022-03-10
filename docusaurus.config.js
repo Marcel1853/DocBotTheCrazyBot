@@ -28,7 +28,7 @@ prism: {
       title: 'TheCrazyBot Docs',
       logo: {
         alt: 'GWorks Logo',
-        src: require('./crazybot.jpg')
+        src: 'https://cdn.g-works.eu/img/gworks/logo.png',
       },
       items: [
         {
