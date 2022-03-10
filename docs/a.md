@@ -6,3 +6,5 @@ title: Welcome
 
 
 ### TheCrazybot Docs 
+
+# Willkommen 
