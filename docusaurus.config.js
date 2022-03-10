@@ -61,7 +61,7 @@ prism: {
           ],
         }
       ],
-      copyright: `©  ${new Date().getFullYear()}`,
+      copyright: `TheCrazyBot Docs © ${new Date().getFullYear()}`,
     },
   },
   presets: [
