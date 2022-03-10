@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://cdn.g-works.eu/img/gworks/logo.png',
+  favicon: 'https://cdn.discordapp.com/attachments/619510627773317124/951438610723397662/crazybot.jpg',
   organizationName: 'TheCrazyBot',
   projectName: 'Docs',
   trailingSlash: true,
