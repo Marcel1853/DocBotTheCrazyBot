@@ -1,7 +1,6 @@
 ---
 id: aTheCrazyBotlog
 title: UpdateLog
-description: test
 ---
 
 
