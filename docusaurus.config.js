@@ -11,6 +11,10 @@ module.exports = {
   i18n: {
     defaultLocale: 'de',
     locales: ['de'],
+    localeConfigs: {
+      de: {
+        htmlLang: 'de',
+      },
   }, 
   plugins: [
     [
