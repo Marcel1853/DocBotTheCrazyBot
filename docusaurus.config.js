@@ -13,7 +13,7 @@ module.exports = {
     locales: ['de'],
     localeConfigs: {
       de: {
-        htmlLang: 'de-GB',
+        htmlLang: 'de',
       },
     },
   },
