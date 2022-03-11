@@ -8,6 +8,10 @@ module.exports = {
   organizationName: 'TheCrazyBot',
   projectName: 'Docs',
   trailingSlash: true,
+  i18n: {
+    defaultLocale: 'de',
+    locales: ['de'],
+  }, 
   plugins: [
     [
       '@docusaurus/plugin-sitemap',
@@ -76,11 +80,4 @@ prism: {
       }
     ]
   ],
-};
-
-module.exports = {
-  i18n: {
-    defaultLocale: 'de',
-    locales: ['de'],
-  },
 };
