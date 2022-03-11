@@ -1,6 +1,7 @@
 ---
 id: aTheCrazyBotlog
 title: UpdateLog
+description: Hier werden die Updates des Botes angezeigt
 slug: /update
 ---
 
