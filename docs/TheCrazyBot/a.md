@@ -1,6 +1,7 @@
 ---
 id: aTheCrazyBotlog
 title: UpdateLog
+slug: /update
 ---
 
 
