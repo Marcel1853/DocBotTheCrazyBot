@@ -6,4 +6,4 @@ sidebar_position: 1
 ---
 
 
-### TheCrazybot Docs 
+## TheCrazybot Docs 
