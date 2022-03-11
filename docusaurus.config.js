@@ -13,9 +13,10 @@ module.exports = {
     locales: ['de'],
     localeConfigs: {
       de: {
-        htmlLang: 'de',
+        htmlLang: 'de-GB',
       },
-  }, 
+    },
+  },
   plugins: [
     [
       '@docusaurus/plugin-sitemap',
