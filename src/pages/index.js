@@ -9,6 +9,10 @@ import Translate from '@docusaurus/Translate';
 
 const features = [
   {
+    title: 'Many instructions',
+    imageUrl: 'img/undraw-tutorial.svg',
+  },
+  {
     title: 'Willkommen',
     imageUrl: 'img/crazybot.jpg',
     description: (
@@ -16,6 +20,10 @@ const features = [
           test
       </>
     ),
+  },
+  {
+    title: 'Who we are',
+    imageUrl: 'img/undraw-free.svg',
   },
 ];
 
