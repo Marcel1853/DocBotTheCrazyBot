@@ -13,10 +13,11 @@ const features = [
   },
   {
     title: 'Willkommen',
+    id: 'crazybot',
     imageUrl: 'img/crazybot.jpg',
     description: (
       <>
-          test
+        test
       </>
     ),
   },
