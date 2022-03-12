@@ -3,7 +3,7 @@ id: aTheCrazyBotlog
 title: UpdateLog
 description: Hier werden die Updates des Botes angezeigt
 slug: /update
-sidebar_position: 1.5
+sidebar_position: 2
 ---
 
 
