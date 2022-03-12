@@ -34,4 +34,11 @@
 .featureImage {
   height: 200px;
   width: 200px;
+  border-radius:50%; 
+  max-width: 15rem; 
+  margin: -2rem; 
+  min-width: 15rem; 
+  background-color: #242b36; 
+  color: #fff; 
+  border-inline-width: unset;
 }
