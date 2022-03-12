@@ -9,31 +9,11 @@ import Translate from '@docusaurus/Translate';
 
 const features = [
   {
-    title: 'Answers to the most questions',
-    imageUrl: 'img/undraw-faq.svg',
+    title: 'Willkommen',
+    imageUrl: 'img/crazybot.jpg',
     description: (
       <>
-        <Translate description="The homepage main heading">
-          At the GWorks docs you can find many answers to questions like: How to use GWorks ID in your own Project?
-        </Translate>
-      </>
-    ),
-  },
-  {
-    title: 'Many instructions',
-    imageUrl: 'img/undraw-tutorial.svg',
-    description: (
-      <>
-        Here you can find many instructions to our projects and how to use them.
-      </>
-    ),
-  },
-  {
-    title: 'Who we are',
-    imageUrl: 'img/undraw-free.svg',
-    description: (
-      <>
-        We are a group of developer, who have fun with their work. We are a community, where everyone can join and work with us.
+          test
       </>
     ),
   },
