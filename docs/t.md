@@ -43,4 +43,4 @@ ________________________
 
 ```
 
-![IMG]('/img/Screenshot_20220315-095427_Discord-Beta.jpg') 
+![IMG]('/img/Screenshot_20220315-095427_Discord-Beta.png') 
