@@ -28,4 +28,19 @@ ________________________
 ```
 
 Der Name ist das Ticketname gemeint.
-discription
+
+Die Discription ist die die man im Dropdown Menü, so wie das Emoji. 
+
+Der Text ist die Nachricht, die im erstellten Ticket rein gesendet wird.
+
+Die Rollen können das Ticket sehen, bearbeiten, schließen und speichern. 
+[PS. Wenn man die Rollen nicht hat kann man auch nicht das Ticket schließen und speichern, außer man hat eine bestimmte Berechtigung Server verwaltung.]
+
+________________________
+
+```
+/t embed titel: [Ticket Übersicht] description: [Wenn du Hilfe brauchst suche dir ein Ticket aus.>>Wenn es ausgenutzt wird, wird der User aus den Support System entfernt.]
+
+```
+
+('../static
