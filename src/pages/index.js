@@ -14,7 +14,7 @@ const features = [
   {
     title: 'Willkommen',
     id: 'crazybot',
-    imageUrl: 'img/crazybot.jpg',
+    imageUrl: 'img/crazybot.png',
     description: (
       <>
         test
