@@ -8,7 +8,7 @@ sidebar_position: 1
 # TheCrazybot Docs 
 
 
-:::note
+:::note ℹ Info
 
 Das Docs ist noch in Arbeit.
 
