@@ -17,7 +17,7 @@ const features = [
     imageUrl: 'img/crazybot.png',
     description: (
       <>
-        test
+        Das ist die Dokumentation vom Bot TheCrazyBot
       </>
     ),
   },
