@@ -52,3 +52,19 @@ ________________________
 Die > ist da um eine Zeile runter zu gehen. 
 
 ![Ticket Übersicht](../static/img/ticket_übersicht.png) 
+
+________________________
+
+```
+/t panel
+```
+
+Ist da um das panel in den Chat rein zu schicken.
+Der chat wird mit /add definiert.
+
+________________________
+```
+/t delete [Ticket name]
+```
+
+Dieser Befehl ist noch in Arbeit. 
