@@ -55,6 +55,7 @@ Die > ist da um eine Zeile runter zu gehen.
 
 ________________________
 
+### /t panel
 ```
 /t panel
 ```
@@ -63,6 +64,8 @@ Ist da um das panel in den Chat rein zu schicken.
 Der chat wird mit /add definiert.
 
 ________________________
+
+### /t delete
 ```
 /t delete [Ticket name]
 ```
