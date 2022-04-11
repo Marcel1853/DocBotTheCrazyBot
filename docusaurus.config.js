@@ -46,7 +46,7 @@ prism: {
           position: 'left',
         },
         {
-          href: 'https://thecrazybot.de',
+          href: 'https://www.thecrazybot.de',
           label: 'Website',
           position: 'right',
         },
