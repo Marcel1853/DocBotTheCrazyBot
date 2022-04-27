@@ -14,6 +14,17 @@ Das Level System wird gefixt und zurück gesetzt.
 27.04.2022 um 14.15 Uhr
 :::
 
+
+### Update vom 15.04.2022
+
+- Bugfixes des Botes
+
+- bei dem tempVoice ist ein neue Befehl dazu gekommen.  .vcclaim
+
+- beim Ticketsystem ist der /t delete jetzt aktiviert und funktioniert
+
+________________________
+
 ### Update vom 09.03.2022
 
 - bugfiexes vom Ticketsystem
