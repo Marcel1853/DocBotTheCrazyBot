@@ -4,7 +4,7 @@ title: UpdateLog
 description: Hier werden die Updates des Botes angezeigt
 slug: /update
 ---
-:::info nächstes große Update
+:::info nächstes großes Update
 
 Das nächste Update wird so werden das, das Crazy-coins und PVP(Kills) Systeme Global werden. 
 Das Level System wird gefixt und zurück gesetzt. 
