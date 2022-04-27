@@ -4,7 +4,15 @@ title: UpdateLog
 description: Hier werden die Updates des Botes angezeigt
 slug: /update
 ---
+:::info nächstes große Update
 
+Das nächste Update wird so werden das, das Crazy-coins und PVP(Kills) Systeme Global werden. 
+Das Level System wird gefixt und zurück gesetzt. 
+
+...... kommen noch mehr Infos
+
+27.04.2022 um 14.15 Uhr
+:::
 
 ### Update vom 09.03.2022
 
