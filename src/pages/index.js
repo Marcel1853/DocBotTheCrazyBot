@@ -9,7 +9,7 @@ import Translate from '@docusaurus/Translate';
 
 const features = [
   {
-    imageUrl: 'img/undraw-tutorial.svg',
+    imageUrl: 'img/Ticketslog.jpg',
   },
   {
     title: 'Willkommen',
@@ -22,7 +22,7 @@ const features = [
     ),
   },
   {
-    imageUrl: 'img/undraw-free.svg',
+    imageUrl: 'img/Tickets.jpg',
   },
 ];
 
