@@ -6,8 +6,7 @@ slug: /update
 ---
 :::info nächstes großes Update
 
-Das nächste Update wird so werden das, das Crazy-coins und PVP(Kills) Systeme Global werden. 
-Das Level System wird gefixt und zurück gesetzt. 
+Kommt in den nächsten Tage
 
 ...... kommen noch mehr Infos
 
