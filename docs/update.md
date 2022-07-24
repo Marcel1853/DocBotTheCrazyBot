@@ -6,9 +6,13 @@ slug: /update
 ---
 :::info nächstes großes Update
 
-Kommt in den nächsten Tage
+das Update wird noch ein bisschen dauern.
+es wird erstmal nur der global Chat funktionieren.
 
-...... kommen noch mehr Infos
+tut mir leid wegen die Umstände
+
+Mfg 
+✩Mάrςέl✩ | ZAE#4434
 
 27.04.2022 um 14.15 Uhr
 :::
