@@ -1,6 +1,6 @@
 ---
 id: aVerifizierungSystem
-title: TicketSytem
+title: VerifizierungSystem
 description: Hier wird das Verification-system erklärt.
 slug: /verifysystem
 ---
