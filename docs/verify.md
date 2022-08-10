@@ -21,10 +21,18 @@ oder
 
 ```
 
-![Nur Button](../static/img/nurbutton)
-![mit Message](../static/img/mitmessage)
-![Message erstellen](../static/img/message)
+![Nur Button](../static/img/Screenshot_20220810-090210_Discord.jpg)
 
+<h2>nur Button</h2>
+
+![mit Message](../static/img/Screenshot_20220810-090405_Discord.jpg)
+
+<h2>mit Message</h2>
+
+![Message erstellen](../static/img/Screenshot_20220810-090312_Discord.jpg)
+
+
+<h2>Message erstellen</h2>
 
 ________________________
 
