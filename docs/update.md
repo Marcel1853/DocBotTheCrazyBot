@@ -8,6 +8,17 @@ slug: /update
 
 ### Update vom 25.05.2023
 
+noch mal eine kleine Änderrung bei diesen Befehl:
+
+'/settings joinchat chat:[#test] hex: [HexCode #030fff/random]'
+'/settings leavechat chat:[#test] hex: [HexCode #030fff/random]'
+
+man kann jetzt auch noch bei der Farbe random eingeben
+
+________________________
+
+### Update vom 25.05.2023
+
 Es wurden alle Befehle mit '.' entfernt und sind jetzt als Slash Commands verfügbar.
 +Der Hilfe-Befehl lautet jetzt '/info help'.
 
