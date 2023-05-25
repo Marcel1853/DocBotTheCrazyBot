@@ -4,12 +4,28 @@ title: UpdateLog
 description: Hier werden die Updates des Botes angezeigt
 slug: /update
 ---
-:::info nächstes großes Update
 
-Update log wird noch geschrieben
+Update vom 25.05.2023
 
-:::
+Es wurden alle Befehle mit '.' entfernt und sind jetzt als Slash Commands verfügbar.
++Der Hilfe-Befehl lautet jetzt '/info help'.
 
+Der globale Chat wurde vollständig entfernt.
+
+Die Fun-Befehle sind jetzt unter '/fun anime' zu finden.
+
+Die Willkommens- und Verabschiedungsnachrichten wurden geändert.
+'/settings joinchat chat:[#test] hex: [HexCode #030fff]'
+'/settings leavechat chat:[#test] hex: [HexCode #030fff]'
+Ihr könnt jetzt auch einen Hex-Code verwenden, um die Farbe anzupassen.
+
+Es gibt einen Shop unter '/crazy shop'.
+
+Das Dashboard wird neu gestaltet.
+
+Wenn ihr Bugs findet, meldet sie bitte bei mir.
+
+________________________
 
 ### Update vom 15.04.2022
 
