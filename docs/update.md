@@ -5,6 +5,7 @@ description: Hier werden die Updates des Botes angezeigt
 slug: /update
 ---
 
+
 ### Update vom 25.05.2023
 
 Es wurden alle Befehle mit '.' entfernt und sind jetzt als Slash Commands verfügbar.
