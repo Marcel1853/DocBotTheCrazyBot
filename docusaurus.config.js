@@ -21,13 +21,14 @@ module.exports = {
     },
   },
   plugins: [
-    'docusaurus-plugin-awesome',
-    ['docusuarus-plugin-confetti', { fancy: false }],
-    () => ({
-      postBuild() {
-        console.log('Build finished');
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        id: 'sitemap',
+        changefreq: 'weekly',
+        priority: 0.5,
       },
-    }),
+    ],
   ],
   themeConfig: {
     prism: {
