@@ -6,6 +6,9 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'TheCrazyBot',
+  deploymentBranch: 'gh-pages',
+  githubHost: 'github.com',
+  githubPort: '22',
   projectName: 'Docs',
   trailingSlash: true,
   i18n: {
@@ -18,17 +21,16 @@ module.exports = {
     },
   },
   plugins: [
-    [
-      '@docusaurus/plugin-sitemap',
-      {
-        id: 'sitemap',
-        changefreq: 'weekly',
-        priority: 0.5,
+    'docusaurus-plugin-awesome',
+    ['docusuarus-plugin-confetti', { fancy: false }],
+    () => ({
+      postBuild() {
+        console.log('Build finished');
       },
-    ],
+    }),
   ],
   themeConfig: {
-prism: {
+    prism: {
       theme: require('prism-react-renderer/themes/github'),
       darkTheme: require('prism-react-renderer/themes/dracula'),
     },
@@ -75,7 +77,7 @@ prism: {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-              "https://github.com/Marcel1853/DocBotTheCrazyBot/edit/main/",
+            "https://github.com/Marcel1853/DocBotTheCrazyBot/edit/main/",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true
         },
