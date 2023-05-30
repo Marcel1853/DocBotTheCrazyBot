@@ -1,6 +1,6 @@
 ---
 id: aWelcomePage
-title: Willkommen
+title: Wilkommen
 sidebar_position: 1
 ---
 
