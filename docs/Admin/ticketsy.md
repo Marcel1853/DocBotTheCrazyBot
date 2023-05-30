@@ -7,7 +7,16 @@ sidebar_position: 3
 ---
 
 
-<h3> Die Beispiele werden in [ ] geschrieben.</h3>
+:::danger Hinweis Speicherung von Tickets
+
+Wenn ein Ticket gespeichert wird, erhält man normalerweise einen Link zum Dashboard. Allerdings ist es momentan aufgrund der Neugestaltung des Dashboards nicht möglich, die Tickets im Dashboard anzuzeigen.
+
+Die Funktion zur Anzeige von gespeicherten Tickets im Dashboard ist vorübergehend deaktiviert.
+:::
+
+
+<h3> Die Beispiele werden in [] geschrieben.</h3>
+
 
 ### /settings ticketsy setting
 
