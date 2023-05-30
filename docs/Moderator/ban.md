@@ -3,10 +3,9 @@ id: aBan
 title: Ban
 description: Hier wird das Ban und berechtigung erklärt.
 slug: /ban
-sidebar_position: 1
 ---
 
-<h3> Die Beispiele werden in [] geschrieben.</h3>
+<h3> Die Beispiele werden in [ ] geschrieben.</h3>
 
 ### /ban ban
 

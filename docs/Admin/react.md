@@ -6,7 +6,7 @@ slug: /reaction
 ---
 
 
-<h3> Die Beispiele werden in [] geschrieben.</h3>
+<h3> Die Beispiele werden in [ ] geschrieben.</h3>
 
 
 ### /settings reaction add

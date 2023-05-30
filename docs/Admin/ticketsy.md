@@ -3,7 +3,6 @@ id: aTicketSytem
 title: TicketSytem
 description: Hier wird das TicketSytem erklärt.
 slug: /ticketsytem
-sidebar_position: 3
 ---
 
 
@@ -15,7 +14,7 @@ Die Funktion zur Anzeige von gespeicherten Tickets im Dashboard ist vorübergehe
 :::
 
 
-<h3> Die Beispiele werden in [] geschrieben.</h3>
+<h3> Die Beispiele werden in [ ] geschrieben.</h3>
 
 
 ### /settings ticketsy setting
