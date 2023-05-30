@@ -3,6 +3,7 @@ id: aTheCrazyBotlog
 title: UpdateLog
 description: Hier werden die Updates des Botes angezeigt
 slug: /update
+sidebar_position: 2
 ---
 
 
@@ -10,8 +11,13 @@ slug: /update
 
 noch mal eine kleine Änderrung bei diesen Befehl:
 
-'/settings joinchat chat:[#test] hex: [HexCode #030fff/random]'
-'/settings leavechat chat:[#test] hex: [HexCode #030fff/random]'
+```
+/settings joinchat chat:[#test] hex: [HexCode #030fff/random]
+```
+
+```
+/settings leavechat chat:[#test] hex: [HexCode #030fff/random]
+```
 
 man kann jetzt auch noch bei der Farbe random eingeben
 
@@ -20,15 +26,24 @@ ________________________
 ### Update vom 25.05.2023
 
 Es wurden alle Befehle mit '.' entfernt und sind jetzt als Slash Commands verfügbar.
-+Der Hilfe-Befehl lautet jetzt '/info help'.
++Der Hilfe-Befehl lautet jetzt:
+```
+/info help
+```
 
 Der globale Chat wurde vollständig entfernt.
 
 Die Fun-Befehle sind jetzt unter '/fun anime' zu finden.
 
 Die Willkommens- und Verabschiedungsnachrichten wurden geändert.
-'/settings joinchat chat:[#test] hex: [HexCode #030fff]'
-'/settings leavechat chat:[#test] hex: [HexCode #030fff]'
+```
+/settings joinchat chat:[#test] hex: [HexCode #030fff]
+```
+
+```
+/settings leavechat chat:[#test] hex: [HexCode #030fff]'
+```
+
 Ihr könnt jetzt auch einen Hex-Code verwenden, um die Farbe anzupassen.
 
 Es gibt einen Shop unter '/crazy shop'.

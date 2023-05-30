@@ -50,7 +50,7 @@ module.exports = {
         },
         {
           href: 'https://www.thecrazybot.de',
-          label: 'Website',
+          label: 'www.thecrazybot.de',
           position: 'right',
         },
       ],
@@ -68,7 +68,7 @@ module.exports = {
           ],
         }
       ],
-      copyright: `TheCrazyBot Docs © ${new Date().getFullYear()}`,
+      copyright: `Copyright © ${new Date().getFullYear()} TheCrazyBot Docs `,
     },
   },
   presets: [
