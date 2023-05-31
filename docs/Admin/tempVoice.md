@@ -6,6 +6,9 @@ slug: /voicetemp
 ---
 
 
+<h3> Die Beispiele werden in [ ] geschrieben.</h3>
+
+
 ### /settings voicetemp add
 
 ```
