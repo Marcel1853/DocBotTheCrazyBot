@@ -35,7 +35,7 @@ Das man bei einem bestimmten Level eine Rolle bekommt.
 
 ________________________
 
-### /settings levelrole remove role
+### /settings levelrole remove
 
 ```
 /settings levelrole remove role:[@Rolle]
