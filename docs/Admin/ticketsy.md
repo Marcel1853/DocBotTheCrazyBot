@@ -6,11 +6,8 @@ slug: /ticketsytem
 ---
 
 
-:::danger Hinweis Speicherung von Tickets
-
-Wenn ein Ticket gespeichert wird, erhält man normalerweise einen Link zum Dashboard. Allerdings ist es momentan aufgrund der Neugestaltung des Dashboards nicht möglich, die Tickets im Dashboard anzuzeigen.
-
-Die Funktion zur Anzeige von gespeicherten Tickets im Dashboard ist vorübergehend deaktiviert.
+:::info Hinweis für Tickets im Dashboard
+man kann jetzt wieder die Tickets im Dashboard sehen.
 :::
 
 
