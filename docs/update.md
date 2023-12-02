@@ -7,6 +7,25 @@ sidebar_position: 2
 ---
 
 
+### **Update vom 27.11-2.12.2023**
+
+- __**Ticketsystem-Befehlsupdate**__
+  - Der neue Befehl lautet **/settings ticketsy bearbeiten** (ist jedoch noch im :beta: )
+  - Benutzerdefinierte Emojis funktionieren jetzt auch
+  - Kleine Fehlerbehebungen
+
+- __**Level & Crazy Leaderboard**__
+  - Es ist nun möglich, durch Seiten zu blättern, um zu sehen, auf welchem Rang man sich befindet.
+
+- __**Willkommen & Verlassen im Chat**__
+  - Kleine Korrektur beim Hex-Code
+
+Es gab bisher keine weiteren Bot-Fixes.
+
+Ich wollte noch einmal darauf hinweisen, dass ab dem 05.11.2023 eine neue Datenbank verwendet wird, da die alte leider ausgefallen ist und sämtliche Daten verloren gegangen sind.
+
+________________________
+
 ### Update vom 25.05.2023
 
 noch mal eine kleine Änderrung bei diesen Befehl:
