@@ -2,7 +2,7 @@ module.exports = {
   title: 'TheCrazyBot Docs',
   tagline: '',
   url: 'https://marcel1853.github.io',
-  baseUrl: ' /DocBotTheCrazyBot/',
+  baseUrl: '/DocBotTheCrazyBot/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'TheCrazyBot',
