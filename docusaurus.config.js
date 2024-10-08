@@ -14,12 +14,17 @@ module.exports = {
   i18n: {
     defaultLocale: 'de',
     locales: ['de'],
+    path: 'i18n',
     localeConfigs: {
       de: {
-        htmlLang: 'de',
-      },
+        label: 'Deutsch',
+        direction: 'ltr',
+        htmlLang: 'de-de',
+        calendar: 'gregory',
+        path: 'de',
+      }, 
     },
-  },
+  }, 
   plugins: [
     [
       '@docusaurus/plugin-sitemap',
