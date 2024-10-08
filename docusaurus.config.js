@@ -44,7 +44,7 @@ module.exports = {
       title: 'TheCrazyBot Docs',
       logo: {
         alt: 'TheCrazyBot Logo',
-        src: 'https://cdn.discordapp.com/attachments/619510627773317124/951438610723397662/crazybot.jpg',
+        src: './static/imag/crazybot.png',
       },
       items: [
         {
