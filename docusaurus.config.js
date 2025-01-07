@@ -44,7 +44,7 @@ module.exports = {
       title: 'TheCrazyBot Docs',
       logo: {
         alt: 'TheCrazyBot Logo',
-        src: 'imag/crazybot.png',
+        src: 'img/crazybot.png',
       },
       items: [
         {
